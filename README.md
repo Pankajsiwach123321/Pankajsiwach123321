@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <img align='left' src="https://media.giphy.com/media/JA6bbQKsEtWVB6ThBU/giphy.gif" width="290">  -->
 
 ### SKILLS <img src="https://media.giphy.com/media/kkQsJyJBMZsk0/giphy.gif" width="60">
->>"DevOps languages and frameworks (HTML | CSS | Js | React Js | Next.js | Typescript)<br>
+>>"DevOps languages and frameworks ( HTML | CSS | Js | React Js | Next.js | Typescript )<br>
 >>Front End Development
 
 
